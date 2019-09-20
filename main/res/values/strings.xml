@@ -1,0 +1,497 @@
+<resources>
+    <string name="app_name">Med4U</string>
+    <string name="action_settings">Settings</string>
+    <string name="large_text">
+        "1.	What is Med4U?
+
+
+Ans :-  Med4U is your complete health app that tells you about your medicines, their substitutes and side effects. Med4U gives you regular health tips, lets you order medicines online, book health tests and packages from certified labs near you with free sample pickup, consult with best doctors online, book appointments with doctors near you.
+
+We want you to understand the medicines that you take and that you give your loved ones. Buying medicines may require you to try 5 medical stores which are miles apart. We want you to be able to do it with a click. Medicines can be expensive. We want you to know about medicines which have the same composition as prescribed by your doctor but can be considerably cheaper.
+
+
+
+2.	How does Med4U collate this information?
+
+
+Ans :- Med4U offers credible and in-depth medical information, health tips and reference material. We are proud that others in the field of health have recognized our efforts over the years.
+
+Our content team blends expertise in medicine, health communication and content creation to bring you the best health information possible.
+
+
+
+3.	What is a generic drug?
+
+
+Ans :- A generic drug is identical to a brand-name drug and has exactly the same dosage, intended use, side effects, strength, route of administration, quality, risks, safety and performance characteristics as the original drug.
+
+However, a generic drug is typically sold at a price lower than it's branded counterpart.
+
+
+
+4.	I am unable to read the prescription. How can I place an order?
+
+
+Ans :- We at Med4U are committed to make placing orders with us simple and quick.
+
+To place an order for medicines against your prescription simply Upload Your Prescription Here Our team of certified pharmacists would then place an order for you.
+
+
+
+5.	Why do I need a prescription with my order?
+
+
+Ans :- As per the Drugs and Cosmetics Act of India, 1940 and Rules, 1945 to dispense prescription medicines we need a valid prescription against the order.
+
+We at Med4U care about your health and safety. So, by verifying your prescription, our team ensures that you get the correct medicine and that too in the right dosage and strength.
+
+
+
+6. What is a valid prescription?
+
+
+Ans :- A valid prescription has the following information:
+1. Name and address of the Doctor
+2. Doctor stamp or signature
+3. Patient name and age
+4. Date of visit or date of the prescription
+5. Name of medicine, dosage, strength and duration for which it is required
+
+
+
+7. What do we verify?
+
+
+Ans :- We verify the ordered medicines against the prescription that you have shared with the order. We check that these medicines are prescribed by a qualified doctor.
+
+
+
+8. How long does it take Med4U to verify my prescription?
+
+
+Ans :- Our team of certified pharmacists will verify your prescription in two working hours from the time the prescription reaches us.
+
+We will verify that the ordered medicines against the prescription that you have shared with the order. Also, we check that the prescription shared by you has the following information:
+1. Name and address of the Doctor
+2. Doctor stamp or signature
+3. Patient name and age
+4. Date of visit or date of the prescription
+5. Name of medicine, dosage, strength and duration for which it is required.
+
+
+
+9. Can I place an order for a substitute?
+
+
+Ans :- Eligible for substitution
+We can dispense substitutes only if your doctor prescribes a medicine in Generic name. This is in accordance with the Drugs and Cosmetics Act of India, 1940 and Rules, 1945.
+Example:Telmisartan is a generic name which is sold under brand names like Telma or Telvas. If your doctor has prescribed "Telmisartan", then you may select any brand of the medicine.
+
+Not eligible for substitution
+We cannot dispense substitutes if your doctor prescribes a specific brand name on your prescription.
+Example: Telmisartan is a generic name which is sold under brand names like Telma or Telvas. If your doctor has prescribed Telma then we can only dispense Telma.
+
+Note: To have greater control on the brand you wish to consume, please encourage your doctor to prescribe generic names on your prescription.
+
+
+
+10. Can I get medicines with a different strength/dosage other than what is on my prescription?
+
+
+Ans :- As per the Drugs and Cosmetics Act of India, 1940 and Rules, 1945 we can dispense medicines as prescribed by a qualified doctor.
+
+The strength and quantity of medicines will be as per the prescription shared by you at the time of order placement.
+
+
+
+11. Will I need original prescription at the time of delivery?
+
+
+Ans :- Yes, our pharmacy partner would require your original prescription to process your order and deliver the medicines against it.
+
+As per the Drugs and Cosmetics Act of India, 1940 and Rules, 1945 to dispense prescription medicines a valid prescription is required.
+
+
+
+12. How do I know the medicines delivered are authentic?
+
+
+Ans :- We at Med4U are committed to ensure 100% customer satisfaction by offering genuine products, secure payments and easy returns.
+
+Pharmacy partners work dedicatedly to sell only genuine products to customers on Med4U. All these partners listing their products on Med4U are required to enter an agreement to list and sell only genuine products.
+
+
+
+13. I want to unsubscribe from promotional emails
+
+
+Ans :- To unsubscribe, click the 'Safely Unlist' button at the bottom of the marketing emails that you have received from us.
+
+However, you will continue to receive transactional and Med4U account related emails.
+
+
+
+14. What is a controlled substance? Are such products available at Med4U.com?
+
+
+Ans :-  Med4U.com does not dispense drugs or medicines, which are included in the Schedule X of Drugs and Cosmetics Act 1940 and Narcotic Drugs and Psychotropic Substances Act 1985 and controlled by the regulatory authorities.
+
+
+
+15.  Is there any way to get more information on the medicines or healthcare products?
+
+
+Ans :- Detailed information about each medicine is provided on our website. Just click on any medicine to get a Drug Snapshot, know the Usage and check the Warnings.
+The information available on our website has been compiled with utmost precision and is for informational purposes only and does not constitute professional medical advice, recommendation, diagnosis or any kind of treatment. You are advised to seek advice from registered medical practitioner or experts for your personal medical needs and requirements. Taking any action based on any information/content provided on www.Med4U.com will be solely at your own risk and www.Med4U.com will not be any situation or condition held responsible for your acts.
+
+"
+
+    </string>
+    <string name="title_activity_fax">Frequently Asked Questions</string>
+
+
+    <string name="app_name1">Med4U</string>
+    <string name="action_settings1">Settings</string>
+    <string name="large_text1">
+    "
+    Our Mission is to make healthcare understandable, accessible and affordable
+    We want you to understand the medicines that you take and that you give your loved ones.
+    Buying medicines may require you to try 5 medical stores which are miles apart. We want you to be able to do it with a click.
+    Medicines can be expensive. We want you to know about medicines which have the same composition as prescribed by your doctor but can be considerably cheaper.
+    We want you to be in charge of your medical care.
+
+    THE TEAM
+    1.	SOURAV ROY
+    B.Tech –ECE  (BPPIMT)
+    roysourav0112@gmail.com
+    +91-9836139258
+
+    2.	ANISHA JAISWAL
+    B.Tech –ECE  (FIEM)
+    jaiswal.anisha143@gmail.com
+    +91-9674368655
+
+    3.	SHUBHO SARKAR
+    B.Tech –ECE  (BPPIMT)
+    shubhsarkar14@gmail.com
+    +91-8981672273
+
+    4.	UTSANITA KUNDU
+    B.Tech –ECE  (BPPIMT)
+    kunduutsanita007@gmail.com
+    +91-8019986063
+
+    5.	SHUBHASAYAN DAS
+    B.Tech –ECE  (BPPIMT)
+    shubhasayandas96@gmail.com
+    +91-9830553709
+
+    6.	SANDIPAN MITRA
+    B.Tech –ECE  (BPPIMT)
+    mitra.s1409@gmail.com
+    +91-7044904932
+
+
+
+    "
+
+    </string>
+    <string name="title_activity_about_us">About Us</string>
+
+
+    <string name="app_name2">Med4U</string>
+    <string name="action_settings2">Settings</string>
+    <string name="large_text2">
+        "
+            PLEASE READ THESE TERMS OF USE CAREFULLY BY ACCESSING OR USING THIS INTERNET BASED PLATFORM, YOU AGREE TO BE BOUND BY THE TERMS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT USE THIS INTERNET BASED PLATFORM.
+
+
+This document is an electronic record, generated in compliance with the terms and rules of the Information Technology Act, 2000. Amended provisions, pertaining to electronic records in various statutes, will be in accordance with the amendments made in the Information Technology Act, 2000. This electronic record is generated by a computer system and does not require any physical or digital signature.
+
+This document is published in accordance with the provisions of Rule 3 of the Information Technology (Intermediaries guidelines) Rules, 2011 that require publishing the rules and regulations, privacy policy and Terms of Use for access or usage of the website.
+
+Please read the following terms and conditions very carefully as your use of the services of this website, the mobile application, both medium also referred to as Med4Ur, is subject to your acceptance of and compliance with the following terms and conditions.
+
+
+Acknowledgement of Terms: When you access this website, mobile application you acknowledge that you have read the terms and conditions set forth below and understood that access to this website/mobile application is subject to the provisions of the same. If you do not agree to the terms and conditions set forth below, you should exit this website/mobile application now. If at any place in this document, the term mobile application has been omitted in a particular section/sub-section/clause, it shall not mean that the terms and conditions mentioned in those section/sub-section/clause are not applicable on access through mobile application. All the terms and conditions mentioned herein shall be applicable to access through mobile application also.
+
+Language of the Terms
+
+The terms are incorporated herein in English language and Med4Ur does not provide you with a translation of the English language version of the Terms and if there is any contradiction between what the English language version of the Terms says and what a translation says, then the English language version shall take precedence.
+
+General Information
+
+Med4Ur is an Innovative Information and Knowledge Based Technology Platform which works as communication medium between Users and Independent Licensed Chemist..
+It acts as bridge between users and the Independent Licensed Chemists and enables users to place their enquiry/indent. Med4Ur is supported by a network of Independent Licensed Chemists (sellers). All communications on Med4Ur are forwarded to the said Independent Licensed Chemists. On confirmation of the same, the orders are fulfilled by the said pharmacies and delivered to users.
+The communications on Med4Ur.com are only in the form of enquiry and indent and are subject to conformity by the said Independent Licensed Chemists.
+Med4Ur itself is not to sell, to stock, to exhibit, to offer for sale or to distribute medicines, pharmaceutical, healthcare And other related products. This website/mobile application provides information and knowledge and forwards all communication of users among the network of Sellers and all sale, stock, exhibit or offer for sale or distribution is only made from the said sellers. No communication from either side is final and binding. Such communications are only in the form of enquiry or indent and are subject to confirmation by the said sellers. All agreements and contracts are being entered only by the said Sellers.
+Med4Ur website and App is a technology platform which works as communication medium between Users and Independent Licensed Chemist.
+No order for medicine on Med4Ur website and App is being received without Prescription. All the orders and Prescription are being first forwarded to the Independent Licensed Chemists. The medicines are dispensed to the Users by the Qualified Pharmacists seating at the Independent Licensed Chemist store.
+The information available on Med4Ur has been compiled with utmost precision and is for informational purposes only and does not constitute professional advice, recommendation, diagnosis or any kind of treatment. You are advised to seek advice from registered medical practitioner or experts for your personal medical needs and requirements. Taking any action based on any information/content provided on Med4Ur will be solely at your own risk and Med4Ur will not be held responsible, under any situation or condition, for your acts.
+It is the duty of the users to read the terms and conditions of this website (which is likely to change from time to time) before accessing it.
+It operates under the banner of Med4U Shop Private Limited, a company incorporated under the Companies Act, 1956 and having its registered office at Med4U Shop Private Limited, INNOVATION TOWER, PREMISES NO 16-315, PLOT NO DH 6/32, ACTION AREA -1D, NEWTOWN, RAJARHAT, KOLKATA -700156.
+Your use of this website, its tools and information are governed by the following terms and conditions ("Terms And Conditions"). If you use this website, you shall have to follow the policies, terms and conditions that are mentioned in this agreement.
+Any individual, who has agreed to become a Registered User of Med4Ur by providing his/her Personal Identification Data, shall agree to abide by the terms and conditions of this website, which is owned and provided by Med4U Shop Private Limited (hereinafter referred to as "Med4Ur").
+ACCESSING, BROWSING OR OTHERWISE USING THIS WEBSITE INDICATES THAT YOU AGREE TO ABIDE BY ALL THE TERMS AND CONDITIONS MENTIONED IN THIS AGREEMENT. SO PLEASE READ THIS AGREEMENT VERY CAREFULLY BEFORE PROCEEDING.
+The information on this site is not intended or implied to be a substitute for professional medical advice, diagnosis or treatment. All content, including text, graphics and information, contained on or available through this website is for general information purposes only. Med4Ur.com makes no representation and assumes no responsibility for the accuracy of information contained on or available through this website and such information is subject to change without notice. You are encouraged to confirm any information obtained from or through this web site with other sources and review all information regarding any medical condition or treatment with your physician. NEVER DISREGARD PROFESSIONAL MEDICAL ADVICE OR DELAY SEEKING MEDICAL TREATMENT BECAUSE OF SOMETHING YOU HAVE READ ON OR ACCESSED THROUGH ANY WEBSITE.
+Med4Ur.com does not recommend, endorse or make any representation about the efficacy, appropriateness or suitability of any specific products, procedures, treatments, opinions or other information that may be contained on or available through this website.
+
+Choice of Law and Jurisdiction
+
+This Agreement shall be governed by and construed in accordance with the laws of India.
+Any litigation arising out of or in connection with this website shall directly come under the jurisdiction of Kolkata courts, West Bengal, India only.
+
+Membership Eligibility
+
+Companies/Individuals who are allowed to enter into a legally binding contract within the purview of the Indian Contract Act, 1872, shall be eligible for membership or registration at Med4Ur. Our services are not available to individuals below 18 years or to users who have been terminated or removed from the system by team Med4Ur for some reason or the other.
+Members must be humans. No machines, scripts, or automated services are permitted to become members.
+
+Privacy
+
+Any information provided by our customers is private and confidential. And we respect customers' privacy. To know more about our privacy policies, visit our Privacy Policy section. We assume that as a responsible user you agree to abide by our privacy policies.
+
+Account and Registration
+
+To become a registered member at Med4Ur, you need to open an account with us. Remember, it is the user's responsibility to keep his/her password and account details confidential. You also agree to accept responsibility for all activities that occur under Your Account or Password. Med4Ur shall not be liable for any loss or damage, which may take place if the user fails to protect his/her account details or password. In case you notice suspicious activities that threaten disclosure of your account details, please contact us immediately at 033-30803080/033-66806680 or mail us at care@Med4Ur.com. If Med4Ur has reason to believe that there is likely to be a breach of security or misuse of the website; then, we may ask you to change your password or, we may also, deactivate your account without your consent.
+You also agree to:
+Provide accurate, current and complete information about yourself, known as "Registration Data", while registering as a new user on Med4Ur.
+Maintain and regularly update your Registration Data to keep it true, accurate, current and complete. If you provide any information that is untrue, inaccurate, incomplete, or not current or if Med4Ur has reasonable grounds to suspect that such information is untrue, inaccurate, and not updated; then, this may result in the termination of your user membership at Med4Ur.
+
+Information
+
+We always try to provide accurate information, yet errors may occur.
+
+Maintenance
+
+This website may at its sole discretion and without assigning any reason whatsoever at any time deactivate or/and suspend the Userâs access to this website and/or the Services (as the case may be) without notice to carry out system maintenance or/and upgrading or/and testing or/and repairs or/and other related work. Without prejudice to any other provisions of this Agreement, this website shall not be liable for any loss or/and damage or/and costs or/and expense that the User may suffer or incur, as a result of such deactivation or/and suspension.
+Discontinuation or Modification to Services
+This website reserves the unilateral right to add to /and/or change and/or delete and/or end the Service at anytime with or without notice to the User. There shall be no liability on behalf of this website to the User or any third party in case this website exercises its unilateral right to modify or discontinue the Service.
+
+User Conduct
+
+You Agree and Confirm
+1. That you will use the services provided by Med4Ur, its affiliates, consultants and contracted companies for lawful purposes only and comply with all applicable laws and regulations while using this website and transacting on this website.
+2. That you will provide true, accurate, complete and current information in all instances when such information is requested from you. Med4Ur reserves the right to confirm and validate the information and other details provided by you at any point of time.
+If upon confirmation, your details are found not to be true (wholly or partly), Med4Ur has the right, in its sole discretion, to reject the registration and debar you from using the Services of Med4Ur and / or other affiliated websites without prior intimation whatsoever.
+3. That you are using your prudent judgment while using Med4Ur.
+4. That you agree to use the Services only for purposes that are permitted by:
+a) The Terms set out herein and
+b) Any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions (including any laws regarding the export of data or software to and from India or other relevant countries).
+5. That you will not engage in any activity that interferes with or disrupts the Services (or the servers and networks which are connected to the Services).
+6. That you agree to ensure full compliance with the applicable provisions of the Drugs and Cosmetics Act, 1940, the Drugs and Cosmetics Rules, 1945, the Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954 as amended from time to time. That you shall not engage in any transaction which is prohibited by the provisions of any applicable law including the Drugs and Cosmetics Act, 1940, the Drugs and Cosmetics Rules, 1945, the Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954 as amended from time to time.
+7. You understand and agree that Med4Ur provides only information and knowledge and acts as a bridge between users and the Sellers. All commercial/contractual terms and agreements are between users and Sellers. Med4Ur is a communication medium. All orders are accepted and fulfilled by independent licensed chemist subject to verification of Valid Prescription by the said chemist. By accepting Terms and Conditions to use this Technology Service, you hereby confirm that you are placing order only for fulfillment of valid prescription. Med4Ur is not responsible for any breach or non-performance of any contract entered between users and sellers. You agree to indemnify and hold harmless Med4Ur, its owners, subsidiaries, licensees, affiliates, joint ventures, third parties and their respective directors, agents, franchisees, suppliers, information providers, employees and their successors from and against any and all claims or demands, actions, liabilities, damage, losses, costs and expenses, including reasonable attorney's fees made by any third party or penalty/penalties imposed due to breach or non-performance or any issues arising from your transaction with the Sellers.
+8. That unless you have been specifically permitted to do so in a separate agreement with this website, you agree that you will not reproduce, duplicate, copy, the content of this website for any purpose.
+9. That you are solely responsible for (and that this website has no responsibility to you or to any third party for) any breach of your obligations under the Terms and for the consequences (including any loss or damage which this website may suffer) of any such breach.
+10. That you have given consent to keep records of telephone calls received from you and made to you for making enquiries, orders or other reasons for the purposes of user administration, research and development, improvement in services, administration of services etc.
+
+Limitations of Usage
+
+This Website cannot be used for any of the following purposes:
+1. Disseminating any unlawful, harassing, libellous, abusive, threatening, harmful, obscene, or otherwise objectionable material.
+2. Transmitting offensive materials that may violate relevant laws, regulations and ethics of pharmacy.
+3. Gaining unauthorised access to other computer systems.
+4. Interfering with any other person's use of the website, its features and services.
+5. Breaching any applicable laws.
+6. Interfering or disrupting networks or websites connected to www.Med4Ur.com.
+7. Making, transmitting or storing electronic copies of copyrighted materials, design details and colours without the permission of the owner.
+
+Prohibited Actions
+
+The User is restrained from allowing any person other than himself / herself to use the Service.
+The User undertakes not to resell or assign his/her rights or obligations under these Terms and Conditions. The User also agrees not to make any unauthorized commercial use of the Service.
+The User shall use the Service only for the purpose for which it is subscribed.
+The User shall comply with all applicable laws (and shall not contravene any applicable law) of India relating to the Services, including any regulation made pursuant thereto.
+The User shall not print, download, duplicate or otherwise copy, delete, vary or amend or use any data or personal information posted by any User on this website except such data and information which are posted by the particular User himself.
+The User shall not share the Service with any person without the prior written approval of this website.
+The User shall not use the Service for any unlawful purpose including without limitation criminal purposes.
+The Service shall not be used to send or receive any message, which is offensive on moral, religious, racial or political grounds or of an abusive, indecent, obscene, defamatory or menacing nature.
+The User shall be prohibited in persistently sending messages or make postings on this website to any other User or third party who access this website without reasonable cause or for causing any threat or/and harassment or/and annoyance or/and anxiety or/and any other inconvenience whatsoever caused to any person.
+The User shall not infringe on any intellectual property rights of any person / organization or/and retain information in any computer system or otherwise with an intention to do so.
+The User agrees not make use of anyone else's Information other than as necessary to complete any this website transactions in which you are involved.
+The User shall not violate, or attempt to violate the security of this website and/or any website(s) linked to this website or gain un-authorized access to any information regarded as private by other Users or persons, including but without limitation, to accessing data and information not intended for them or logging onto a server or account which the User is not authorized to access, attempting to probe, scan or test the vulnerability of a system or network or attempting to breach security or authentication.
+The User shall be prohibited to introduce, post, or transmit any information or software, which contains a virus, worm or other harmful component into the internet or this website network system.
+The Users shall avail the services of this website or any other related website for lawful purposes alone. Transmission of information or/and conduct in violation of any applicable local or/and state or/and Central or/and foreign law or/and regulation is prohibited. This includes without limitation any unauthorized use of material protected by patent or/and copyright or/and trademark or/and other intellectual property right, material that is obscene or/and defamatory or/and libellous or/and constitutes an illegal threat, or/and violates rights of privacy or publicity, or/and violates export control laws.
+
+Communication
+
+While using Med4Ur you agree to communicate with us via electronic medium. We will communicate with you through e-mails, SMS and phone (mobile, landline or any other medium) for all purposes. You agree that all agreements, notices, disclosures and other communications that we provide you electronically, satisfy any legal requirement that such communications be in writing.
+
+Modification of Terms And Conditions of Service
+
+We reserve the right to change these terms and conditions from time to time without informing you. It is your responsibility to review the company Terms And Conditions regularly.
+If you wish to terminate your account due to any modification in the Terms And Conditions or any Policy of Med4Ur, you may do so by sending an email, with the subject line "Termination", to the following email
+address: care@Med4Ur.com
+In the case of inconsistencies between these Terms And Conditions and any information included in off-line materials (for example, promotional materials and mailers), these Terms should always be referred And shall prevail over such information included in the material.
+
+Termination and Refusal of Service
+
+Med4Ur may, in its sole discretion, limit user activity by immediately suspending your membership, either temporarily or for an indefinite period without citing any reason.
+This website may also terminate or block user membership, and/or refuse to allow user access to the site and/or services, or cancel orders, in the event, but not limited to:
+The user violates any or all the terms and conditions of this agreement and/or any policy of Med4Ur.
+User actions that may harm or slander other users' actions or pose as a threat to this website.
+We discover that the user has provided inaccurate and incomplete information.
+The user attempts to dupe, denigrate, or abuse Med4Ur by using the functionalities on the website. A user, once suspended or blocked may not register or attempt to register with us, or use Med4Ur or any of its services in any manner whatsoever, until we reinstate the account of that user. Also in case of such termination, we reserve the right to recover any amount due and may take strict legal action, including but not limited to: a referral to the appropriate police or other authorities for commencing criminal or other proceedings against the user.
+To terminate the User Agreement, you have to first discontinue your use of this website, its features and services.
+To discontinue your use of this website, send us a mail, with "Termination" as your subject line, to care @Med4Ur.com.
+By the word "user" we mean "you, or anyone acting on your behalf or under your password".
+Med4Ur may also, at its sole discretion and at its convenience, discontinue, suspend, modify, restrict or terminate the website or any part of it without issuing any notice to you or any other person.
+
+Product
+
+This website is only for information and communication purpose. This website provides information and knowledge regarding price and availability of medicines, pharmaceutical, healthcare And other related products and forwards all communication of users among the network of Sellers.
+Prices and availability of products are subject to change without prior notice or any consequential liability on the Med4Ur.
+It is discretion of Med4Ur to modify, extend, update or withdraw the offers on products without prior notice to the Users.
+
+Delivery
+
+This website provides its services to the whole of India, subject to the following:
+1)Delivery of prescribed medicines are done by Independent Licensed Chemists against a valid prescription. The Independent Licensed Chemist can refuse to deliver the order in absence of a valid prescription. Med4Ur will not be held liable for refusal of orders by the Independent Licensed Chemist.
+2)Delivery of prescribed medicines, selected pharmaceutical and other related products is only available in the state of West Bengal and is designated as "Serviceable Area".
+3)OTC, health care and other related products except prescribed medicines, will be available across all locations in India.
+4)OTC, health care and other related products purchased from the website by a user located outside the serviceable area, shall be delivered to the User by standard courier services on behalf of the respective sellers through a logistics partner. If the standard courier services are not available for a particular region/pincode, such order shall not be delivered and the user shall be intimated accordingly.
+
+Payment
+
+Registration on the Website and the access to the information provided on the Website is free. Med4Ur does not charge any fee for accessing, browsing of the Website. The User agrees to make all payments directly to the respective Seller for purchase of goods from such Seller. The Sellers may use the services of collection agents duly appointed in this regard or authorize Med4Ur to collect/remit payment on their behalf. The Users agree and acknowledge that it shall not hold Med4Ur responsible for any loss or damage caused to the User during the process, due to any acts or omission on the part of third parties viz. the Seller or the collection agents or for any actions/ omissions which are beyond the control of Med4Ur.
+Users have multiple payment methods - Credit Card/Debit Card/Net banking / Third party Wallets and COD. It is at the sole discretion of Med4Ur whether to continue/discontinue any kind of payment method.
+While availing any of the payment method/s available on the Website, we will not be responsible or assume any liability, whatsoever in respect of any loss or damage arising directly or indirectly to You due to:
+1.Lack of authorization for any transaction/s, or
+2.Exceeding the preset limit mutually agreed by You and between "Bank/s", or
+3.Any payment issues arising out of the transaction, or
+4.Decline of transaction for any other reason/s
+You understand, accept and agree that the payment facility provided by Med4Ur is neither a banking nor financial service but is merely a facilitator providing an electronic, automated online electronic payment, receiving payment through Cash On Delivery, collection and remittance facility for the Transactions on the Med4Ur using the existing authorized banking infrastructure and Credit Card payment gateway networks. Further, by providing Payment Facility, Med4Ur is neither acting as trustees nor acting in a fiduciary capacity with respect to the Transaction or the Transaction Price.
+
+Return
+
+All products ordered from the website and successfully delivered to user in Serviceable areas may be returned to the Seller in accordance with the terms contained in the respective Return policy. Products delivered to users in areas other than serviceable area are non-returnable.
+
+Other Terms
+Feedbacks and Suggestions
+
+We appreciate feedback and suggestions from our users. However, Med4Ur reserves the right to control and monitor the posting of all feedbacks and suggestions from the user end. Once posted, the contents will be treated as "public" and we take no responsibility for any content posted by a user or any third party. We are also under no obligation, whatsoever to respond to any content posted on our site.
+By continuing to use this website, you hereby grant Med4Ur and its affiliates and sub-licensee a perpetual, irrevocable, non-terminable, worldwide, royalty-free and non-exclusive license to use, copy, distribute, publicly display, modify and create derivative works from such materials or any part of such materials.
+
+Copyright and Trademark
+
+All materials located on or in this Website, including( but not limited by) images, illustrations, text, logos, page headers, audio clips, and video clips, is our exclusive property and are expressly protected by copyrights, trademarks and other intellectual property rights.
+COPYING, STORING, DISTRIBUTING, TRANSMITTING, POSTING, LINKING, RE-PUBLISHING, DEEP LINKING, OR OTHERWISE MODIFYING WEBSITE MATERIALS IN WHOLE OR IN PART, OTHER THAN FOR YOUR OWN PERSONAL, NON-COMMERCIAL USE, WITHOUT EXPLICIT WRITTEN PERMISSION OF Med4Ur, IS STRICTLY PROHIBITED.
+The Med4Ur logo/ image, and other Med4Ur graphics, logos, page headers, button icons, scripts, and service names, used on the home page as well as on the other pages of this website, and as used in the communication to the User or to any other third party, are trademarks, registered trademarks or trade dress of Med4Ur in India and worldwide.
+You acknowledge and agree that Med4Ur own all legal right, title and interest in and to the Services, including any intellectual property rights which subsist in the Services (whether those rights happen to be registered or not, and wherever in the world those rights may exist). You further acknowledge that the Services may contain information which is designated confidential by Med4Ur and that you shall not disclose such information without our prior written consent.
+Unless you have agreed otherwise in writing with Med4Ur, nothing in the Terms gives you a right to use any of Med4Ur trade names, trademarks, service marks, logos, domain names, and other distinctive brand features.
+All other Trademarks, not owned by Med4Ur but appearing on this website, are the property of their respective owners. These trademarks and trade dress cannot not be used, communicated or distributed in connection with any product or service that does not belong to Med4Ur, in any manner whatsoever, without the specific and written permission of Med4Ur.
+Any breach of the terms, as mentioned above, may result in a copyright, trademark or other intellectual property right violation that may subject the doer to civil and / or criminal penalties.
+You agree that you shall not remove, obscure, or alter any proprietary rights notices (including copyright and trade mark notices) which may be affixed to or contained within the Services.
+Unless you have been expressly authorised to do so in writing by this website, you agree that in using the Services, you will not use any trade mark, service mark, trade name, logo of any company or organisation in a way that is likely or intended to cause confusion about the owner or authorised user of such marks, names or logos.
+
+License
+
+A) From the website to the user Med4Ur grants you a limited, non-transferable, non-exclusive, non-sub licensable, non-assignable and personal license to access and use this website as a user and prohibits you from modifying the website or any portion of it, barring in case Med4Ur gives consent for the same.
+This license, however, does not permit any resale or commercial use of this website or its contents; any collection and use of any product listings, descriptions or prices; any derivative use of this website or its contents; any downloading or copying of account information for the benefit of another merchant; or any use of data mining, robots, or similar data gathering and extraction tools.
+This website or any portion of this website may not be duplicated, reproduced, copied, resold, sold, visited, or otherwise exploited for any commercial purpose without exclusive written consent of Med4Ur.
+A user may not frame or use framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of Med4Ur and our affiliates without our explicit written consent.
+You may not use any Meta tag or any other "hidden text" and Med4Ur.com name or trademarks without the explicit written consent of Med4Ur. Any unauthorized use will terminate the permission or license granted by Med4Ur.
+You are granted a limited, revocable, and non-exclusive right to create a hyperlink to the home page of Med4Ur as long as the link does not portray Med4Ur, its affiliates, its products or services in a false, misleading, derogatory or otherwise offensive manner, or proclaim ownership right of any form.
+B) From the user to the website
+The User shall give out to this website a non-exclusive, worldwide, royalty-free, irrevocable, sub-license able (through multiple tiers) right to exercise all copyright and publicity rights, in any existing or future media, known or unknown, over the material or User Data displayed in your listings.
+For the purpose of this Agreement, "User Data" shall mean all information (if any) submitted by the User to this website.
+You understand that Med4Ur, in performing the required technical steps to provide the Services to its users may:
+a) Transmit or distribute your content / information over various public networks and in various media; and
+b) Make such changes to your content / information as are necessary to conform and adapt that content / information to the technical requirements of connecting networks, devices, services or media.
+You agree that this licence shall permit www.Med4Ur.com to take these actions.
+
+Website Security
+
+Users are forbidden from breaching or attempting to breach the security of Med4Ur, including but not limiting to:
+Use any device, software or routine to interfere or attempt to interfere with the proper working of this Website or any activity being conducted on this Website;
+Accessing data that is not intended for you or logging onto a server or an account, which you are not authorized to access;
+Attempting to probe, scan or test the vulnerability of a system or network or to breach security or authentication measures without proper authorization;
+Attempting to interfere with the service of any other user, host or network,( including but without limitation), via means of submitting a virus to the Website(Med4Ur), 'overloading', 'flooding,' 'spamming', 'mail bombing' or 'crashing';
+Sending unsolicited email, including promotional mails and/or advertising products or services without our consent.
+Forging any TCP/IP packet header or any part of the header information in any email or news group posting.
+You further agree not to use or attempt to use any engine, software, algorithm, methodology, tool, agent or other device or mechanism (including but not limited to browsers, spiders, robots, avatars or intelligent agents) to navigate or search this Website other than the search engine and search agents available from Med4Ur.com and other available third party web browsers (e.g., Netscape Navigator, Microsoft Internet Explorer, Google Chrome).
+BREACH OF SYSTEM OR NETWORK SECURITY OR ILLEGITIMATE ACCESS TO ANY PORTION OF THE WEBSITE, ANY OTHER SYSTEM OR NETWORKS CONNECTED TO THE WEBSITE OR TO ANY OF THE SERVICES OFFERED ON OR THROUGH THE WEBSITE, MAY RESULT IN CIVIL OR CRIMINAL LIABILITY.
+Indemnity
+
+You agree to indemnify and hold harmless Med4Ur, its owners, subsidiaries, licensees, affiliates, joint ventures, third parties and their respective directors, agents, franchisees, suppliers, information providers, employees and their successors from and against any and all claims or demands, actions, liabilities, damage, losses, costs and expenses, including reasonable attorney's fees made by any third party or penalty/penalties imposed due to breach of the Terms And Conditions, Privacy Policy and Disclaimer policies of Med4Ur, or your violation of any law, rules and regulations or the rights of Med4Ur.com or any third party due to any activity related to your account by you or any other person accessing the service by using your account.
+The User unilaterally agree to indemnify and hold harmless, without objection, Med4Ur, its officers, directors, employees and agents from and against any claims, actions and/or demands and/or liabilities and/or losses and/or damages whatsoever arising from or resulting from the User's use of this website or User's breach of the terms of this terms and conditions.
+
+Limitations of liability
+
+This website is only for information and communication purpose. This website itself is not to sell, to stock, to exhibit or to offer for sale or to distribute medicines, pharmaceutical, healthcare And other related products. We do not administer warranties or guarantees associated with the products or services. Nevertheless, any product warranty, offered by the manufacturer of the product as specified in the product specifications, will solely be their responsibility.
+The data associated with the pharmaceutical and healthcare products and/or services provided on our website, www.Med4Ur.com are solely for informative purposes and is not intended for commercialisation. We have taken maximum care to ensure accuracy of the data. However, we do not guarantee cent per cent accuracy, as we have accumulated these data from external and third party sources. This should not be the basis for formulating any kind of decision without seeking professional advice.
+All Brands appearing on our website are the property/brands/copyright of the respective owners and we do not claim any rights over them.
+This website takes no responsibility / liability whatsoever for shortage or non fulfilment of the services on this website or any other related website due to or arising out of technical failure or/and malfunctioning and/or otherwise and the User hereby undertakes that in such situations, the User shall not claim any right / damages / relief, etc against the Company for "Deficiency of service" under The Consumer Protection Act or any other Act/Rules of India or any other country.
+A link to another site displayed on www.Med4Ur.com should not mean that this website is affiliated to or associated with that website, and the subsequent usage of the other website is entirely the user's responsibility.
+This website makes no warranty that the service rendered by the website shall meet the user's requirements, that the service shall be uninterrupted or/and timely or/and secure or/and error free; nor does this website make any warranty as to the results that may be obtained from the use of the service or as to the accuracy or reliability of any information obtained from the service.
+There are representations and warranties, whether explicit or implied, made by this website regarding the accuracy and/or quality of any information transmitted and/or obtained through the use of the Services or this website.
+This website shall not be liable for any disclosure of information concerning the User's account and/or particulars nor for any error and/or omissions and/or inaccuracy with regard to information so disclosed. In addition, this website shall further not be liable for any loss or damages sustained by reason of such disclosure, whether intentionally or inadvertently.
+In case there is any loss of information, caused due to any reason, whether as a result of any disruption of service, suspension and/or termination of the Service, this website shall not be liable in any way for the same. Further, this website is not responsible for the accuracy, quality and/or contents of any information available, received and/or transmitted through this Service.
+The User shall ensure that while using the Service, all prevailing and applicable laws, rules and regulations, directly or indirectly for the use of systems, service or equipment shall at all times, be strictly complied with by the User and this website shall not be liable in any manner whatsoever for default of any nature regarding the same, by the User.
+
+This limitation applies to anything related to:
+The service,
+Viruses or other disabling features that affect your access to or use of the service,
+Incompatibility between the service and other services, software and hardware,
+Delays or failures you may have in initiating, conducting or completing any transmissions or transactions in connection with the service in an accurate or timely manner, and Claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort.
+It also applies even if:
+This remedy does not fully compensate you for any losses, or fails of its essential purpose; or Med4Ur knew or should have known about the possibility of the damages.
+
+Exclusion of Warranties
+
+The Website is provided without any warranties or guarantees. You must bear the risks associated with the use of the Website.
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE SERVICES IS AT YOUR SOLE RISK AND THAT THE SERVICES ARE PROVIDED IN "AS IS" AND "AS AVAILABLE" FORM.
+IN PARTICULAR, Med4Ur, its partners, agents, licensors, suppliers, or their respective directors, franchisees, officers, or employees of them, and its subsidiaries and affiliates, DO NOT REPRESENT OR WARRANT TO YOU THAT:
+1. YOUR USE OF THE SERVICES WILL MEET YOUR REQUIREMENTS,
+2. YOUR USE OF THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE OR FREE FROM ERROR,
+3. ANY INFORMATION OBTAINED BY YOU AS A RESULT OF YOUR USE OF THE SERVICES WILL BE ACCURATE OR RELIABLE, AND
+4. THAT DEFECTS IN THE OPERATION OR FUNCTIONALITY OF ANY SOFTWARE PROVIDED TO YOU AS PART OF THE SERVICES WILL BE CORRECTED.
+5. ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICES IS DONE AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR OTHER DEVICE OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.
+6. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM THIS WEBSITE OR THROUGH OR FROM THE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THE TERMS.
+7. THIS WEBSITE FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+MED4UR, its affiliates, partners, agents, suppliers, or their respective directors, franchisees, officers, or employees shall not be liable for any incidental, special, consequential or exemplary damage, cost or expenses incurred due to ( but not limited to); monetary loss, loss of goodwill, data or other intangible losses arising directly or indirectly out of or in connection with the Website, its services or delay in performing any obligation under this contract by reason of any event or circumstances outside the reasonable control of Med4Ur, including but not limited to: strikes, industrial action, failure of power supplies or equipment, government action or an act of God.
+Termination We, at our sole discretion, can terminate this Agreement at any time.
+We also have the right to deactivate or terminate the account of the End User in the event of any conduct which we consider unacceptable, or if the user is found to violate the above Agreement.
+We may at any time, terminate its legal agreement with you if:
+1. You have breached any provision of the Terms (or have acted in manner which clearly shows that you do not intend to or are unable to comply with the provisions of the Terms); or
+2. We are required to do so by law (for example, where the provision of the Services to you is, or becomes, unlawful); or
+3. The partner with whom we offer the Services to you has terminated its relationship with us or ceased to offer the Services to you.
+
+Interpreting the Contract
+
+All parts of this contract apply to the maximum extent permitted by law. A court may hold that we cannot enforce a part of this contract as written. If this happens, then you and we will replace that part with terms that most closely match the intent of the part that we cannot enforce. The rest of this contract will not change. This is the entire contract between you and us regarding your use of the service. It supersedes any prior contract or statements regarding your use of the service. If you have confidentiality obligations related to the service, those obligations remain in force (for example, you may have been a beta tester). The section titles in the contract do not limit the other terms of this contract.
+
+Assignment
+
+We may assign this contract, in whole or in part, at any time with or without notice to you. You may not assign this contract, or any part of it, to any other person. Any attempt by you to do so is void. You may not transfer to anyone else, either temporarily or permanently, any rights to use the service or any part of the service.
+
+No Third Party Beneficiaries
+
+This contract is solely for your and our benefit. It is not for the benefit of any other person, except for permitted successors and assigns under this contract.
+
+Remedies
+
+In the event that the User breaches any of the above-mentioned covenants, this website shall have the right to delete any material relating to the violations without prior notice to the User. This website shall issue a warning to the User to discontinue any activity which leads to the said violations and in the event the User continues with such prohibited activity, this website reserves the unilateral right to suspend or/and deactivate the User's access to this website, the Service and/or any other related facility. In addition to the right to indemnity available to this website, this website shall have the right to any legal remedy, against the User to recover the loss suffered by this website and the harm caused to the reputation of this website, due to such violation by the User.
+        "
+    </string>
+    <string name="title_activity_terms_and_conditions">Terms &amp; Conditions</string>
+    <string name="title_activity_rate_us">RateUs</string>
+
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentStart="true"
+    android:layout_alignParentTop="true">
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:text="SELECT PAYMENT MODE"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView21"
+        android:layout_below="@+id/textView21"
+        android:layout_marginTop="25dp"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:text="CASH ON DELIVERY" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/checkBox"
+        android:layout_below="@+id/checkBox"
+        android:layout_marginTop="20dp"
+        android:text="DEBIT CARD/ CREDIT CARD" />
+
+    <EditText
+        android:id="@+id/editText8"
+        android:textColor="@android:color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/checkBox2"
+        android:layout_below="@+id/checkBox2"
+        android:layout_marginTop="19dp"
+        android:textSize="20dp"
+        android:ems="15"
+        android:text=""
+        android:hint="ENTER 16 DIGIT CARD NUMBER"
+        android:inputType="number"
+        android:enabled="false"
+        android:layout_alignEnd="@+id/textView21" />
+
+    <EditText
+        android:id="@+id/editText9"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:hint="ENTER CARD HOLDER'S NAME"
+        android:enabled="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/editText8"
+        android:layout_centerVertical="true"
+        android:ems="15"
+        android:inputType="textCapCharacters"
+        android:text=""
+        android:layout_alignEnd="@+id/editText8" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:enabled="false"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="22dp"
+        android:text="VALID UPTO : -"
+        android:layout_below="@+id/editText9"
+        android:layout_alignStart="@+id/editText9"
+        android:layout_alignEnd="@+id/editText9" />
+
+    <EditText
+        android:id="@+id/editText10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_marginTop="17dp"
+        android:layout_below="@+id/textView22"
+        android:layout_alignStart="@+id/textView22"
+        android:layout_alignEnd="@+id/textView22"
+        android:textColor="@android:color/black"
+        android:textSize="15dp"
+        android:ems="15"
+        android:hint="ENTER MONTH (MM)"
+        android:enabled="false"
+        android:inputType="number"/>
+
+    <EditText
+        android:id="@+id/editText11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/editText10"
+        android:layout_below="@+id/editText10"
+        android:layout_marginTop="15dp"
+        android:ems="15"
+        android:inputType="number"
+        android:hint="ENTER YEAR (YYYY)"
+        android:enabled="false"
+        android:textColor="@android:color/black"
+        android:textSize="15dp"
+        android:text=""
+        android:layout_alignEnd="@+id/editText10" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PLACE ORDER"
+        android:background="@color/colorAccent"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_marginTop="14dp"
+        android:enabled="false"
+        android:layout_below="@+id/editText11"
+        android:layout_centerHorizontal="true"
+        android:onClick="order"/>
+</RelativeLayout>

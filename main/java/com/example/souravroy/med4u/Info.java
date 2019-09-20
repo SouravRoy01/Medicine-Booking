@@ -1,0 +1,21 @@
+package com.example.souravroy.med4u;
+
+/**
+ * Created by souravroy on 18-07-2017.
+ */
+
+public class Info {
+
+
+
+
+        String Name[]={"CHOOSE YOUR PRODUCT...","3 Kat 60mg Tablet","4Quin Eye Drops","Acnestar 20mg Capsule","Acutret 5mg Capsule", "Adidas Deodrant For Men","Adidas Deodrant For Women","Alcoliv 500mg Tablet","Anne French Hair Removal Cream","Axe Deodrant","B FIT Tablet","Bacfen 5mg Tablet","Biocilin 500mg Injection","Boro Plus Cream 20gm","Boro Plus Prickly Heat Powder","Cinthol Soap","Cipzen 100mg Tablet","Cromal Eye Drops 5ml","Cycloreg 5mg Tablet","Dabur Amla Hair Oil 100ml","Dabur Almond Oil 20ml","Dermi Cool Powder 200gm","Dersol 18% Ointment","Dettol Handwash 500ml","Dettol Sanitizer 100ml","Dove Shampoo 200ml","Dyamide 5mg Tablet","Encephabol 100mg Tablet","Engage Deos For Her","Engage Deos For Him","Ezlar Powder 40gm","Fem Bleach 50gm","Fiama di Wills Body Gel","Fiama di Wills Soap","Floresp Nasal Spray","Fogg Body Spray 100ml","Foligest 150 Injection","Foseal 400mg Tablet","Gilette Shaving Foam 100gm","Glimser 2mg Tablet","Gonablok 50mg Capsule","Gonablok 100mg Capsule","Gutfeel Granules 90gm","HE Deo 250ml","Hilgim 1mg Tablet","Hilgim 2mg Tablet","Humstard 40 Injection","ICare Lip Balm 5gm","Indicard 2mg Tablet","Iprazest Respule 2.5ml","Irovel H Tablet","Julax Tablet","Jovan Body Musk 300gm","Kerashine Hair Oil 100ml","Ketorex Cream 25gm","Kronostar 300mg Tablet","Kronostar 600mg Tablet","Lakme Moisturizer 50ml","Lamivir S 40mg Tablet","Lethyrox 25mg Tablet","Lifebuoy Soap 20gm","Loprolif 0.1% Ointment","Lux Body Wash","Maclfox Tablet","Medimix Soap","Migarid 5mg Tablet","Migon 5mg Tablet","Nasivion Moist Adult Nasal Spray 10ml","Nasivion Moist Child Nasal Spray","Nivea Crème 60ml","Nise Tablet","Old Spice After Shave Lotion 100ml","Ontac gel 30gm","Otorex Ear Drops 5ml","Oxalgin Nano Gel 30gm","Patanjali Aloevera Gel 50gm","Prandial 0.2mg Tablet","Profigran 5mg Tablet","Profigran 10mg Tablet","Quadriderm RF Cream 5mg","Quadriderm RF Cream 10mg","QuitSure 4mg Tablet","Randruff Shampoo 250ml","Recartix Plus Tablet","Relaxyl Ointment 5mg","Rexona Soap 25gm","Santoor Powder","Saslic Face Wash Foam","Stamace 5mg Capsule","Storvas 40mg Tablet","Storvas 80mg Tablet","Tripride LP Forte 2mg Tablet","Tufacne 20mg Capsule","Ultituss Suspension 100ml","Vaseline Petroleum Jelly 100gm","Vaseline Petroleum Jelly 100gm","Valest 1mg Tablet","Vepan 250ml syrup","Vomiset Syrup 30ml","Weltelmi 40mg Tablet","Weltelmi Syrup 60ml","Wokride Capsule","Xylocaine 2% Injection","Xenobid 550mg Tablet","Yasmin Tablet","Yaz Tablet","Zinetac 150mg Tablet","Zinetac Injection 2ml","Zoamet Paediatric Eye Drops 10ml","Zofer 4mg Tablet","Zytanix 2.5mg Tablet"};
+        int Price[]={0,20,110,320,26,19,35,87,90,56,155,90,60,156,99,12,44,97,100,35,98,102,132,81,297,207,155,15,222,25,130,114,90,49,107,14,107,14,39,246,25,63,45,101,130,31,52,86,130,434,390,55,49,66,252,183,92,15,301,53,34,35,45,143,129,26,104,76,69,40,45,78,67,140,44,98,213,243,92,308,266,26,333,36,241,225,100,51,218,25,50,345,36,74,65,240,43,86,45,90,33,100,24,56,86,20,177,120,450,352,300};
+        int Discount[]={0,5,12,22,13,0,8,15,14,14,14,17,24,31,18,2,0,0,0,11,7,22,16,18,21,13,8,10,10,12,14,9,6,4,12,15,17,2,4,8,0,11,13,15,17,19,21,1,3,5,7,2,4,6,8,10,12,14,16,18,22,1,4,7,10,13,16,19,22,24,27,30,33,31,29,27,25,23,21,19,17,5,10,15,20,25,30,26,22,18,14,10,18,22,0,15,17,3,7,11,15,7,14,21,28,6,12,18,24,5,26};
+        static int Quantity[]={0,5,10,15,20,25,20,15,10,5,10,10,15,20,25,20,15,10,5,10,15,15,20,25,20,15,10,5,10,15,20,20,25,20,15,10,5,10,15,20,25,20,15,10,5,10,15,20,25,20,15,20,25,20,15,10,5,10,15,20,25,20,15,10,5,10,15,20,25,20,15,10,5,10,15,20,25,20,15,10,5,10,15,20,25,20,15,10,5,10,15,20,25,20,15,10,5,10,15,20,25,20,15,10,5,10,15,20,25,20,18};
+        int Prescription[]={0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1};
+        int PersonalCare[]={0,0,0,0,0,1,1,0,1,1,0,0,0,1,1,1,0,0,0,1,1,1,0,1,1,1,0,0,1,1,0,1,1,1,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
+
+        static  String cart="";
+
+}

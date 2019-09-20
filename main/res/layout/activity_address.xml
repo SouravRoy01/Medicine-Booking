@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+    <TextView
+        android:id="@+id/textView7"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="13dp"
+        android:textColor="@android:color/holo_red_dark"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:text="ADDRESS DETAILS : - " />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView7"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:ems="15"
+        android:textColor="@android:color/black"
+        android:focusable="true"
+        android:hint="ENTER YOUR NAME "
+        android:inputType="textPersonName"
+        android:text="" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="15dp"
+        android:hint="FLAT NO. , BUILDING"
+        android:layout_centerHorizontal="true"
+        android:ems="15"
+        android:inputType="textPersonName"
+        android:text=""
+        android:layout_below="@+id/editText"
+        android:layout_alignStart="@+id/editText"
+        android:layout_alignEnd="@+id/textView7" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="19dp"
+        android:ems="15"
+        android:inputType="textPersonName"
+        android:text=""
+        android:layout_centerHorizontal="true"
+        android:hint="STREET"
+        android:layout_below="@+id/editText2"
+        android:layout_alignStart="@+id/editText2" />
+
+    <EditText
+        android:id="@+id/editText4"
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/editText2"
+        android:layout_alignStart="@+id/editText3"
+        android:layout_below="@+id/editText3"
+        android:layout_marginTop="19dp"
+        android:ems="15"
+        android:hint="PINCODE"
+        android:inputType="number"
+        android:text=""
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:id="@+id/editText5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:ems="15"
+        android:inputType="textPersonName"
+        android:text=""
+        android:layout_centerHorizontal="true"
+        android:hint="CITY"
+        android:textColor="@android:color/black"
+        android:layout_below="@+id/editText4"
+        android:layout_alignStart="@+id/editText4" />
+
+    <EditText
+        android:id="@+id/editText6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:ems="15"
+        android:layout_centerHorizontal="true"
+        android:inputType="textPersonName"
+        android:text=""
+        android:textColor="@android:color/black"
+        android:hint="STATE"
+        android:layout_below="@+id/editText5"
+        android:layout_alignStart="@+id/editText5"
+        android:layout_alignEnd="@+id/editText5" />
+
+    <EditText
+        android:id="@+id/editText7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/editText6"
+        android:layout_alignStart="@+id/editText6"
+        android:layout_below="@+id/editText6"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="11dp"
+        android:ems="15"
+        android:hint="PHONE NUMBER"
+        android:inputType="phone"
+        android:text=""
+        android:textColor="@android:color/black" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:text="PROCEED"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:enabled="false"
+        android:layout_below="@+id/editText7"
+        android:layout_centerHorizontal="true"
+        android:onClick="proceed"
+        />
+</RelativeLayout>
